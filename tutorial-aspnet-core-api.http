@@ -1,6 +1,0 @@
-@tutorial_aspnet_core_api_HostAddress = http://localhost:5166
-
-GET {{tutorial_aspnet_core_api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
